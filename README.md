@@ -1,3 +1,3 @@
 # FloatReyclerView
 float RecyclerView
-![IMAGE](screen.jpg =500*800)
+![IMAGE](screen.jpg =500x800)
