@@ -1,3 +1,4 @@
 # FloatReyclerView
 float RecyclerView
-![IMAGE](screen.jpg =100x)
+<img src="screen.jpg" width="400" height="800" 
+/>
